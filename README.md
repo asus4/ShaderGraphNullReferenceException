@@ -1,7 +1,7 @@
 
 This is a simple project to reproduce the NullReferenceException error in the Shader Graph.
 
-## Hot to reproduce
+## How to reproduce
 
 1. Press "Play" button in Unity Editor.
 2. Stop plying
